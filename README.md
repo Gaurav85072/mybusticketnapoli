@@ -93,7 +93,7 @@
                         <span class="bg-green-500 text-white text-xs font-bold px-2 py-0.5 rounded-full ml-auto">Active</span>
                     </div>
                     <p class="text-gray-700 text-sm">Route: <span class="font-medium">NAPOLI - CASERTA</span></p>
-                    <p class="text-gray-500 text-xs">Valid up to: 01/08/2026</p>
+                    <p class="text-gray-500 text-xs">Valid up to: 31/07/2027</p>
                     <p class="text-gray-500 text-xs mt-2">Price: <span class="text-sm font-semibold">0,00 €</span></p>
                 </div>
             </div>
@@ -149,7 +149,7 @@
                                 <!-- User Photo: Replaced placeholder with the uploaded image URL -->
                                 <img src=" " alt="User Photo" class="w-16 h-16 rounded-full object-cover border-2 border-green-300 shadow-md">
                                 <div>
-                                    <p class="text-base font-semibold text-gray-900">Gaurav Kumar</p>
+                                    <p class="text-base font-semibold text-gray-900">Sidharth Kumar</p>
                                     <p class="text-xs text-gray-600">JEF-NW9T242222G</p>
                                     <p class="text-xs text-gray-600 mt-1">Card no. <span class="font-mono text-gray-800">2000695622</span></p>
                                     <p class="text-xs text-gray-600">Expires: <span class="font-mono text-gray-800">31/07/2026</span></p>
@@ -208,7 +208,7 @@
                             <div class="w-full relative">
                                 <div class="decorative-strip">
                                     <p id="ticket-route-text" class="font-bold text-sm z-50 relative">FROM NAPOLI TO CASERTA</p>
-                                    <p id="ticket-validity-text" class="text-xs font-light z-50 relative">Valid from 16/09/2025 to 01/08/2026</p>
+                                    <p id="ticket-validity-text" class="text-xs font-light z-50 relative">Valid from 16/09/2026 to 31/07/2027</p>
                                 </div>
                             </div>
 
@@ -221,7 +221,7 @@
                         <div class="mt-0 space-y-4">
                             <div class="flex justify-between items-center">
                                 <span class="text-gray-500">Issued on:</span>
-                                <span id="ticket-issue-text" class="text-gray-800 font-medium">16/09/2025 - 11:08</span>
+                                <span id="ticket-issue-text" class="text-gray-800 font-medium">16/09/2026 - 11:08</span>
                             </div>
                             <div class="flex justify-between items-center">
                                 <span class="text-gray-500">Price</span>
